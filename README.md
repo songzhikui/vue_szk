@@ -1,4 +1,4 @@
-# hello-vue-cli
+# hello-vue-cli3.0
 
 ## Project setup
 ```
